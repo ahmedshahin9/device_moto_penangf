@@ -4,4 +4,4 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-PRODUCT_MAKEFILES := $(wildcard device/motorola/targets/devices/penangf/*.mk)
+PRODUCT_MAKEFILES := $(wildcard device/motorola/targets/devices/penang/*.mk)
